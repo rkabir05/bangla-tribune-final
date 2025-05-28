@@ -62,7 +62,7 @@ main {
     text-align: center;
     color: white;
     font-size: 20px;
-    font-weight: bold;
+    font-weight: normal;
 }
 
 .drop-dpwn-menu-part-2>nav>ul>li>a:hover,
@@ -136,9 +136,8 @@ i.fa-solid.fa-magnifying-glass {
 .drop-dpwn-menu-part-2>nav>ul>li>a {
     text-decoration: none;
     font-size: 20px;
-    font-weight: bold;
+    font-weight: n;
     color: black;
-
 }
 
 .drop-dpwn-menu-part-2>nav>ul {
@@ -1034,3 +1033,42 @@ i.fa-solid.fa-magnifying-glass {
     margin-top: 20px;
 }
 
+h3,
+a {
+    font-weight: normal;
+}
+
+.single-head {
+    margin-bottom: 20px;
+    margin-top: 20px;}
+
+.greter {
+    margin-top: 22px;
+}
+
+.videos-heading {
+    color: white;
+    margin-top: 20px;
+}
+
+.width-1200px {
+   width: 1200px; 
+}
+
+.text-align-justify{
+    text-align: justify;
+}
+
+.width-1000px {
+   width: 1000px; 
+}
+
+
+
+.single-page-heading h1 a {
+    font-size: 39px;
+}
+
+.single-news-body p {
+    font-size: 17px;
+}

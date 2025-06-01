@@ -673,6 +673,11 @@ i.fa-solid.fa-magnifying-glass {
     padding-bottom: 15px;
 }
 
+.border-bottom-1px-gray {
+    border-bottom: 1px solid gray;
+    padding-bottom: 15px;
+}
+
 .border-right-2px-gray {
     /* border-right: 2px solid gray; */
 }
@@ -1002,12 +1007,21 @@ i.fa-solid.fa-magnifying-glass {
 .sorbadik-single-news a:hover,
 .right-part-heading a:hover,
 .four-lead-head a:hover,
+.category-head a:hover,
 .single-head a:hover,
 .aro-box a:hover {
     color: red;
 }
 
 
+.category-time a:hover {
+    color: green;
+}
+
+
+
+.category-time a:hover,
+.category-head a:hover,
 .bangla-tribune-news a:hover,
 .sorbadik-single-news a:hover,
 .right-part-heading a:hover,
@@ -1108,4 +1122,9 @@ a {
 
 .single-page-heading  {
     line-height: 43px;
+}
+
+
+.justify-content-center {
+    justify-content: center;
 }
